@@ -1,4 +1,8 @@
 # video-dom
+## 项目说明
+```
+vue 项目引入vue-video-player 播放视频流（直播）
+```
 
 ## Project setup
 ```
